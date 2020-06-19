@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 17, 2020 (Example 1)
-
-##### (delete me or comment me out)
+### Day 1: June 17, 2020
+Today marks the first day of me doing 100 Days of Code. 
+I will be learning how to use React native to build an application. oh boy!
 
 **Today's Progress**
 
